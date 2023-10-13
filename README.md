@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">My name is Ilya and I am a beginner web developer from Kyiv, Ukraine.<br>I am constantly expanding my knowledge and skills in the field of programming and design.<br><br>I am currently learning Node.js, Express, JavaScript.</p>
+<p align="center">My name is Ilya and I am a beginner web developer from Kyiv, Ukraine.<br>I am constantly expanding my knowledge and skills in the field of programming and design.<br><br>I am currently learning Node.js, Express, JavaScript.</p>
 
 ###
 
@@ -63,9 +63,5 @@
 ###
 
 <h3 align="center">🔥   My Reposetories:</h3>
-
-###
-
-<img src="https://raw.githubusercontent.com/illiafedorchuk/illiafedorchuk/output/snake.svg" alt="Snake animation" />
 
 ###
