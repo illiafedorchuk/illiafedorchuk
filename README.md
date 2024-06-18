@@ -17,7 +17,7 @@
 
 ###
 
-<p align="center">My name is Illia and I am a beginner web developer from Kyiv, Ukraine.<br>I am constantly expanding my knowledge and skills in the field of programming and design.<br><br>I am currently learning Node.js, Express, JavaScript.</p>
+<p align="center">My name is Illia and I am a beginner web developer from Kyiv, Ukraine.<br>I am constantly expanding my knowledge and skills in the field of programming and design.<br></p>
 
 ###
 
